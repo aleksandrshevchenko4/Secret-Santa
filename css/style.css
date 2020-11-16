@@ -102,6 +102,23 @@ h1{
     margin: 2rem;
 }
 
+#social-container {
+    background-color: var(--santa-red);
+    color: snow;
+}
+
+.social span {
+    font-family: "Montserrat";
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.social i {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
 @media (min-width: 956px){
     #title{
         padding: 0;
